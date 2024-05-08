@@ -11,4 +11,10 @@
     <ProjectReference Include="..\MillerInc.PhysicsEngine\MillerInc.PhysicsEngine.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="MillerInc">
+      <HintPath>..\MillerInc.PhysicsEngine\Deps\MillerInc.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

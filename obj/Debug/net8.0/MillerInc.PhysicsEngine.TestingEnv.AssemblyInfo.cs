@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MillerInc.PhysicsEngine.TestingEnv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e3463a45a6025c2e156cdff7f00855c9f89f5ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66c1fb4a392aac4e25276fff1134c87c3190b6f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MillerInc.PhysicsEngine.TestingEnv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MillerInc.PhysicsEngine.TestingEnv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

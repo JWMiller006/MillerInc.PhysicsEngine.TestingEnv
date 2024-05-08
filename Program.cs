@@ -4,11 +4,39 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            string? input = Console.ReadLine();
-            input = input ?? "No input was given.";
-            Console.WriteLine(input);
-            Test.TestMethod();
+            CheckArgs(args);
+        }
+
+        static void CheckArgs(string[] args)
+        {
+            if (args.Length == 0)
+            {
+                return;
+            }
+            else
+            {
+                switch (args[0])
+                {
+                    case "test":
+                        Test.TestMethod();
+                        break;
+                    default:
+                        if (args.Length > 1)
+                        {
+                            switch (args[1])
+                            {
+                                case "new":
+                                    Test.TestMethod();
+                                    break;
+                                default:
+                                    Console.WriteLine("Invalid command line argument.");
+                                    break;
+                            }
+                        }
+                        Console.WriteLine("Invalid command line argument.");
+                        break;
+                }
+            }
         }
     }
 
