@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q/vhFbs8rOxSw2X/dp2lQOokIK4eMxjvvX5MYGaxxit+y7t0I/j+SgqTdb9zgMbuoAyOXuFLrfvixdOeezUM/w==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\repos\\MillerInc.PhysicsEngine.TestingEnv\\MillerInc.PhysicsEngine.TestingEnv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jwmil\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
