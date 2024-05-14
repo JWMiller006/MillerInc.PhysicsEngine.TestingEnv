@@ -117,6 +117,14 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "ILGPU": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "ILGPU.SharpDX": {
+              "target": "Package",
+              "version": "[0.5.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

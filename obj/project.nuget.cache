@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Q/vhFbs8rOxSw2X/dp2lQOokIK4eMxjvvX5MYGaxxit+y7t0I/j+SgqTdb9zgMbuoAyOXuFLrfvixdOeezUM/w==",
+  "dgSpecHash": "dhpAakVsMkosN6j5iUG2+A75nz0FYybgTH4ch7lHdqoO37n5OGf3CQBy7MNwSf9tQCLr8U1TgkJzMXbsjJqjVQ==",
   "success": true,
   "projectFilePath": "D:\\Work\\repos\\MillerInc.PhysicsEngine.TestingEnv\\MillerInc.PhysicsEngine.TestingEnv.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jwmil\\.nuget\\packages\\ilgpu\\1.5.1\\ilgpu.1.5.1.nupkg.sha512",
+    "C:\\Users\\jwmil\\.nuget\\packages\\ilgpu.sharpdx\\0.5.0\\ilgpu.sharpdx.0.5.0.nupkg.sha512",
+    "C:\\Users\\jwmil\\.nuget\\packages\\sharpdx\\4.2.0\\sharpdx.4.2.0.nupkg.sha512",
+    "C:\\Users\\jwmil\\.nuget\\packages\\sharpdx.direct3d11\\4.2.0\\sharpdx.direct3d11.4.2.0.nupkg.sha512",
+    "C:\\Users\\jwmil\\.nuget\\packages\\sharpdx.dxgi\\4.2.0\\sharpdx.dxgi.4.2.0.nupkg.sha512",
     "C:\\Users\\jwmil\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
   ],
   "logs": []
